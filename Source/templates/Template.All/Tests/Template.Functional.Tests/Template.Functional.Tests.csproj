@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Template.Tests.Common\Template.Tests.Common.csproj" />
+    <ProjectReference Include="..\..\Shared\Template.Web.Http\Template.Web.Http.csproj" />
+    <ProjectReference Include="..\..\Source\Template.Api\Template.Api.csproj" />
+    <ProjectReference Include="..\..\Source\Template.Contracts.Api\Template.Contracts.Api.csproj" />
+  </ItemGroup>
+</Project>

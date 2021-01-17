@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Piotr Czech",
+  "classifications": [ "Web"],
+  "generatorVersions": "[1.0.0.0-*)",
+  "identity": "Template.All.CSharp",
+  "groupIdentity": "Template.All.CSharp",
+  "precedence": "5000",
+  "name": "Template full setup with all services",
+  "shortName": "Template.All",
+  "defaultName": "Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Template",
+  "preferNameDirectory":true
+}

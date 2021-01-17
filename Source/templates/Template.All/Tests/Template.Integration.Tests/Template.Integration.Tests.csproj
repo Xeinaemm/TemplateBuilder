@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\Source\Template.Application.Setup\Template.Application.Setup.csproj" />
+    <ProjectReference Include="..\..\Source\Template.Application\Template.Application.csproj" />
+  </ItemGroup>
+</Project>

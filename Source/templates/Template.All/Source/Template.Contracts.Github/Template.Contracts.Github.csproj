@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="refit" Version="5.0.23" />
+  </ItemGroup>
+</Project>

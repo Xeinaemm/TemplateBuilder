@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\Template.Application.Setup\Template.Application.Setup.csproj" />
+    <ProjectReference Include="..\Template.Contracts.Api\Template.Contracts.Api.csproj" />
+    <ProjectReference Include="..\Template.Contracts.Messages\Template.Contracts.Messages.csproj" />
+  </ItemGroup>
+</Project>

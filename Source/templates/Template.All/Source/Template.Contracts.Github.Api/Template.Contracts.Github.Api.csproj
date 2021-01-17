@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Template.Contracts.Github\Template.Contracts.Github.csproj" />
+  </ItemGroup>
+</Project>

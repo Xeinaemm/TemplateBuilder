@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="Shared\Template.Sdk\Sdk\Sdk.targets" />
+  
+  <!--<Sdk Name="Template.Sdk" Version="1.0.2" /> normally as SDK--> 
+</Project>

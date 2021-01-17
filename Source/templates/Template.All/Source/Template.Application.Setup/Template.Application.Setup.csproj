@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Template.Configuration.Autofac\Template.Configuration.Autofac.csproj" />
+    <ProjectReference Include="..\Template.Application\Template.Application.csproj" />
+    <ProjectReference Include="..\Template.Contracts.Api\Template.Contracts.Api.csproj" />
+    <ProjectReference Include="..\Template.Contracts.Github.Api\Template.Contracts.Github.Api.csproj" />
+  </ItemGroup>
+</Project>
